@@ -1,0 +1,17 @@
+{
+  "uuid": "3f8fbffa-5e05-46cf-8625-b680d1654443",
+  "shortName": "Metronebble",
+  "longName": "Metronebble Metronome for Pebble 2.0",
+  "companyName": "seb.so",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
