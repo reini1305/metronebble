@@ -8,7 +8,7 @@ before_script:
     - mkdir pebble-dev
     - cd pebble-dev
     - wget "https://developer.getpebble.com/2/download/PebbleSDK-2.0-BETA1.tar.gz"
-    - tar -zxf PebbleSDK-2.0-BETA1.tar.gz 
+    - tar xzf PebbleSDK-2.0-BETA1.tar.gz
     - export PATH=~/pebble-dev/PebbleSDK-2.0-BETA1/bin:$PATH'
     - wget "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/sdk/arm-cs-tools-ubuntu-universal.tar.gz"
     - cd PebbleSDK-2.0-BETA1
