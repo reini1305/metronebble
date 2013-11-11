@@ -1,8 +1,6 @@
 metronebble
 ===========
 
-[![Build Status](https://travis-ci.org/sebmaynard/metronebble.png?branch=master)](https://travis-ci.org/sebmaynard/metronebble)
-
 Metronebble - a Metronome for Pebble
 
 More details (and a binary) available at http://seb.so/pebble/metronebble 
