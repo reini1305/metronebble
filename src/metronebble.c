@@ -1,3 +1,7 @@
+#######
+# Metronebble - a Metronome for Pebble 2.0
+
+
 #include <pebble.h>
 #include "metronebble.h"
 
